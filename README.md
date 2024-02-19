@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lishy87
 - 👀 I’m interested in art and photography. 
-- 🌱 I’m currently learning to code. 
-- 💞️ I’m looking to collaborate on any creative projects. 
 - 📫 How to reach me; on this profile please. 
 
 <!---
